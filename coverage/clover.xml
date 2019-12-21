@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1576942024170" clover="3.2.0">
+  <project timestamp="1576942024170" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8" elements="30" coveredelements="30" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="J:\CODE\GitHub\ajs-7_get-set\src\app.js">
+      <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="13" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="27" count="3" type="stmt"/>
+      <line num="35" count="9" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="47" count="3" type="stmt"/>
+      <line num="51" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="52" count="3" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
