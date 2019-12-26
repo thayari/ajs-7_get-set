@@ -50,8 +50,9 @@ export default class Character {
   toAttack() {
     if (this._attacksLeft > 0) {
       this._attacksLeft -= 1;
-    } else {
+    } else if (this._attacksLeft === 0) {
       this.reduceParameters();
+      this._attacksLeft -= 1;
     }
   }
 }
